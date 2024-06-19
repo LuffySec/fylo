@@ -1,5 +1,5 @@
 body {
-    background-image: url(/images/bg-mobile.png);
+    background-image: url(./images/bg-mobile.png);
     background-repeat: no-repeat;
     background-size: 29rem;
     min-height: 100vh;
@@ -141,7 +141,7 @@ span {
         display: flex;
     }
     body {
-        background-image: url(/images/bg-desktop.png);
+        background-image: url(./images/bg-desktop.png);
         background-size: 100rem;
         background-position: bottom;
         background-color: hsl(229, 57%, 11%);
